@@ -1,5 +1,5 @@
-# Building-infrastructure-classification-and-detection
-Different types of builiding classification and detection.
+# A-Study-on-Building-Infrastructure-Recognition-Using-Deep-Learning-Methods
+Different types of builiding classification, detection, and Localization
 
 - Image preprocessing resize and rename
 - Image background removal
