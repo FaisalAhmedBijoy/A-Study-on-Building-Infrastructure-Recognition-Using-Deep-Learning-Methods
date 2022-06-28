@@ -1,6 +1,8 @@
 # A-Study-on-Building-Infrastructure-Recognition-Using-Deep-Learning-Methods
 Different types of builiding classification, detection, and Localization
+
 Dataset: https://mahmud-cse16.github.io/Building-Infrastructure-Classification/
+
 - Image preprocessing resize and rename
 - Image background removal
 - Data augmentation using ImageDataGenerator
